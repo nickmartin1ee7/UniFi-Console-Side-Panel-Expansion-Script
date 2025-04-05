@@ -1,6 +1,6 @@
 # README
 
-Adds a TamperMonkey JS script that will add an Expand Side Panel button to the UniFi Console dashboard. This will expand the side panel to 100% the width of the screen so you can explore the details and graphs in full detail!
+A TamperMonkey JS script that will add an Expand Side Panel button to the UniFi Console dashboard. This will expand the side panel to 100% the width of the screen so you can explore the details and graphs in full detail!
 
 ## Screenshots
 
